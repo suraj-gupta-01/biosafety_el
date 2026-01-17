@@ -1,0 +1,9 @@
+inference-sdk 
+supervision 
+opencv-python 
+streamlit 
+requests
+python-dotenv
+streamlit
+opencv-python
+numpy
