@@ -7,3 +7,7 @@ python-dotenv
 streamlit
 opencv-python
 numpy
+flask
+flask-cors
+flask-socketio 
+python-socketio
